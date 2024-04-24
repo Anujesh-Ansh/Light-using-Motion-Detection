@@ -17,14 +17,14 @@ Experience the magic of creating your own motion-activated lamp using a PIR sens
 
 Follow these steps to connect the components:
 
-1. Connect the **5V** from the Arduino to the **positive line** of the breadboard.
-2. Connect the **GND** from the Arduino to the **negative line** of the breadboard.
-3. Connect the **GND** (Ground) pin of the PIR sensor to the **negative line** of the breadboard.
-4. Connect the **Power** pin of the PIR sensor to the **positive line** of the breadboard.
-5. Connect the **Signal** pin of the PIR sensor to **Digital Pin 2** of the Arduino.
-6. Connect **Digital Pin 13** of the Arduino to the **anode (+)** of the LED.
+1. Connect the **5V** from the Arduino to the **positive line** of the breadboard (red wire).
+2. Connect the **GND** from the Arduino to the **negative line** of the breadboard (black wire).
+3. Connect the **GND** (Ground) pin of the PIR sensor to the **negative line** of the breadboard (black wire).
+4. Connect the **Power** pin of the PIR sensor to the **positive line** of the breadboard (red wire).
+5. Connect the **Signal** pin of the PIR sensor to **Digital Pin 2** of the Arduino (yellow wire).
+6. Connect **Digital Pin 13** of the Arduino to the **anode (+)** of the LED (green wire).
 7. Connect one end of the **220 ohm resistor** to the **cathode (-)** of the LED.
-8. Connect the other end of the **220 ohm resistor** to the **negative line** of the breadboard (GND).
+8. Connect the other end of the **220 ohm resistor** to the **negative line** of the breadboard (GND) (black wire).
 
 ![Circuit Diagram](paste your image link here)
 
