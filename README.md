@@ -26,7 +26,7 @@ Follow these steps to connect the components:
 7. Connect one end of the **220 ohm resistor** to the **cathode (-)** of the LED.
 8. Connect the other end of the **220 ohm resistor** to the **negative line** of the breadboard (GND).
 
-![Circuit Diagram](paste your image link here)
+![Circuit Diagram](https://github.com/Anujesh-Ansh/Light-using-Motion-Detection/raw/main/circuit-image.JPG)
 
 Now that your circuit is set up, let's move on to the code implementation! 
 
