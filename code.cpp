@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 int pirsensor = 0;
 
 void setup()
